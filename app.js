@@ -1,6 +1,7 @@
 function parul()
 {
 console.log("F.R.I.E.N.D.S");
+console.log("sitcom");
 }
-console.log("hello");
+console.log("bug fixed");
 parul();
